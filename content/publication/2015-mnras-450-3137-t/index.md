@@ -6,7 +6,7 @@ authors: ["K. Takáts", "G. Pignata", "M.~L. Pumo", "E. Paillas", "L. Zampieri",
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*mnras*"
+publication: "*MNRAS*"
 tags: ["supernovae: general", "supernovae: individual: SN 2009ib", "galaxies: individual: NGC 1559", "Astrophysics - Solar and Stellar Astrophysics"]
 doi: "10.1093/mnras/stv857"
 ---
