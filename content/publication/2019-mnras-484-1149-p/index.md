@@ -9,6 +9,5 @@ featured: true
 publication: "*mnras*"
 tags: ["cosmology: theory", "dark energy", "large-scale structure of Universe", "Astrophysics - Cosmology and Nongalactic Astrophysics"]
 doi: "10.1093/mnras/stz022"
-url_pdf: 'https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.1149P/abstract'
 ---
 
