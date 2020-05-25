@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Astrophysics
+    institution: Pontificia Universidad Católica de Chile
+    year: 2021
+  - course: MSc in Astrophysics
+    institution: Pontificia Universidad Católica de Chile
+    year: 2016
+  - course: BSc in Astronomy
+    institution: Universidad Andrés Bello
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
