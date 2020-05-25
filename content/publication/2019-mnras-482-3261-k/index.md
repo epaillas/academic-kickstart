@@ -6,7 +6,7 @@ authors: ["Andrea Kulier", "Nelson Padilla", "Joop Schaye", "Robert A. Crain", "
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*mnras*"
+publication: "*MNRAS*"
 tags: ["galaxies: evolution", "galaxies: formation", "galaxies: haloes", "Astrophysics - Astrophysics of Galaxies"]
 doi: "10.1093/mnras/sty2914"
 ---
