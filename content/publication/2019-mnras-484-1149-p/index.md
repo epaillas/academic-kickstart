@@ -6,7 +6,7 @@ authors: ["Enrique Paillas", "Marius Cautun", "Baojiu Li", "Yan-Chuan Cai", "Nel
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*mnras*"
+publication: "*MNRAS*"
 tags: ["cosmology: theory", "dark energy", "large-scale structure of Universe", "Astrophysics - Cosmology and Nongalactic Astrophysics"]
 doi: "10.1093/mnras/stz022"
 ---
