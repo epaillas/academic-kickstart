@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Enrique Paillas
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate in Astrophysics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Pontificia Universidad Católica de Chile
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests revolve around cosmology and the large-scale structure of the Universe.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Redshift-space distortions
+- Large-scale structure
+- Cosmological tests for modified gravity
 
 education:
   courses:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a doctoral researcher in astrophysics, working at Pontificia Universidad Católica de Chile. My research is mainly related to cosmology and the large-scale structure of the Universe. I'm specially interested in characterizing the way galaxies cluster, in order to better understand the nature of gravity and the accelerated expansion of the Universe.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+For my work, I enjoy complementing both theory and observations. I'm currently a member of the LSST Dark Energy Science Collaboration and the Extended Baryon Oscillation Spectroscopic Survey. If you're interested, you can find more details on the "Research" tab.
