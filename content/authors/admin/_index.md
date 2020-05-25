@@ -21,15 +21,17 @@ organizations:
 bio: My research interests revolve around cosmology and the large-scale structure of the Universe.
 
 interests:
-- Redshift-space distortions
+- Cosmology
 - Large-scale structure
-- Cosmological tests for modified gravity
+- Redshift-space distortions
+- Modified gravity
+- Weak lensing
 
 education:
   courses:
-  - course: PhD in Astrophysics
+  - course: PhD (c) in Astrophysics
     institution: Pontificia Universidad Católica de Chile
-    year: 2021
+    year: 2020
   - course: MSc in Astrophysics
     institution: Pontificia Universidad Católica de Chile
     year: 2016
@@ -47,13 +49,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/epaillas
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/epaillas
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +71,4 @@ user_groups:
 
 I'm a doctoral researcher in astrophysics, working at Pontificia Universidad Católica de Chile. My research is mainly related to cosmology and the large-scale structure of the Universe. I'm specially interested in characterizing the way galaxies cluster, in order to better understand the nature of gravity and the accelerated expansion of the Universe.
 
-For my work, I enjoy complementing both theory and observations. I'm currently a member of the LSST Dark Energy Science Collaboration and the Extended Baryon Oscillation Spectroscopic Survey. If you're interested, you can find more details on the "Research" tab.
+For my work, I enjoy complementing both theory and observations. I'm currently a member of the LSST Dark Energy Science Collaboration and SDSS-IV. If you're interested, you can find more details on the "Research" tab.
