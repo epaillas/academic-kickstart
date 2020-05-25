@@ -9,6 +9,5 @@ featured: false
 publication: "*MNRAS*"
 tags: ["galaxies: evolution", "galaxies: formation", "galaxies: haloes", "Astrophysics - Astrophysics of Galaxies"]
 doi: "10.1093/mnras/sty2914"
-url: "10.1093/mnras/sty2914"
 ---
 
