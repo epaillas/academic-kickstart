@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a doctoral researcher in astrophysics, working at Pontificia Universidad Católica de Chile. My research is mainly related to cosmology and the large-scale structure of the Universe. I'm specially interested in characterizing the way galaxies cluster, in order to better understand the nature of gravity and the accelerated expansion of the Universe.
+I'm an astrophysicist working at Pontificia Universidad Católica de Chile, currently finishing my PhD, under the supervision of Dr. Nelson Padilla. My research is mainly related to cosmology and the large-scale structure of the Universe. I'm specially interested in characterizing the way galaxies cluster, in order to better understand the nature of gravity and the accelerated expansion of the Universe.
 
-For my work, I enjoy complementing both theory and observations. I'm currently a member of the LSST Dark Energy Science Collaboration and SDSS-IV. If you're interested, you can find more details on the "Research" tab.
+For my work, I enjoy complementing both theory and observations. I'm currently a member of the LSST Dark Energy Science Collaboration (DESC) and SDSS-IV. If you're interested, you can find more details on the "Publications" tab.

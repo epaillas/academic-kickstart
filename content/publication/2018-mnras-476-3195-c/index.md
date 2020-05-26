@@ -9,5 +9,6 @@ featured: true
 publication: "*MNRAS*"
 tags: ["gravitational lensing: weak", "dark energy", "large-scale structure of Universe", "cosmology: theory", "Astrophysics - Cosmology and Nongalactic Astrophysics"]
 doi: "10.1093/mnras/sty463"
+url_pdf: 'https://arxiv.org/pdf/1710.01730.pdf'
 ---
 

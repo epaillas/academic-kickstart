@@ -8,5 +8,6 @@ abstract: ""
 featured: true
 publication: "*arXiv e-prints*"
 tags: ["Astrophysics - Cosmology and Nongalactic Astrophysics"]
+url_pdf: 'https://arxiv.org/pdf/2004.11387.pdf'
 ---
 
