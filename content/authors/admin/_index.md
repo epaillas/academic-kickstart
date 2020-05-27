@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Astrophysics
+role: PhD (c) in Astrophysics
 
 # Organizations/Affiliations
 organizations:
@@ -71,4 +71,4 @@ user_groups:
 
 I'm an astrophysicist working at Pontificia Universidad Católica de Chile, currently finishing my PhD under the supervision of Dr. Nelson Padilla. My research is mainly related to cosmology and the large-scale structure of the Universe. I'm specially interested in characterizing the way galaxies cluster, in order to better understand the nature of gravity and the accelerated expansion of the Universe.
 
-For my work, I enjoy complementing both theory and observations. I'm currently a member of the LSST Dark Energy Science Collaboration (DESC) and SDSS-IV. If you're interested, you can find more details on the "Publications" tab.
+For my work, I enjoy complementing both theory and observations. I'm currently a member of the LSST Dark Energy Science Collaboration (DESC) and SDSS-IV. If you're interested, you can look at some of my featured articles under the 'Publications' tab.
