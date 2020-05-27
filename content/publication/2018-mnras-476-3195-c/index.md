@@ -11,5 +11,6 @@ tags: ["gravitational lensing: weak", "dark energy", "large-scale structure of U
 doi: "10.1093/mnras/sty463"
 url: '#featured'
 url_pdf: 'https://arxiv.org/pdf/1710.01730.pdf'
+url: '.'
 ---
 

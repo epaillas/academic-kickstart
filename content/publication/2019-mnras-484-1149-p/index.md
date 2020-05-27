@@ -11,5 +11,6 @@ tags: ["cosmology: theory", "dark energy", "large-scale structure of Universe", 
 doi: "10.1093/mnras/stz022"
 url: '#featured'
 url_pdf: 'https://arxiv.org/pdf/1810.02864.pdf'
+url: '.'
 ---
 

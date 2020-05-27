@@ -10,5 +10,5 @@ publication: "*MNRAS*"
 tags: ["methods: statistical", "large-scale structure of Universe", "Astrophysics - Cosmology and Nongalactic Astrophysics"]
 doi: "10.1093/mnras/stx1514"
 url_pdf: 'https://arxiv.org/pdf/1609.00101.pdf'
-url: 'content/publication/2017-mnras-470-4434-p/index.md'
+url: '.'
 ---
